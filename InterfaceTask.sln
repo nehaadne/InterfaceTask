@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTask", "InterfaceTask.csproj", "{72ABB4AE-601E-494A-8ACD-FE4A4D7773DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72ABB4AE-601E-494A-8ACD-FE4A4D7773DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ABB4AE-601E-494A-8ACD-FE4A4D7773DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ABB4AE-601E-494A-8ACD-FE4A4D7773DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ABB4AE-601E-494A-8ACD-FE4A4D7773DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A208C654-F99E-49CD-96AB-4359DEE4CB17}
+	EndGlobalSection
+EndGlobal
